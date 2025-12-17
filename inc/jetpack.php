@@ -4,7 +4,7 @@
  *
  * @link https://jetpack.com/
  *
- * @package Désalpe_de_Semsales
+ * @package Comptoir_de_la_Veveyse
  */
 
 /**

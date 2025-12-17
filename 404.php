@@ -4,7 +4,7 @@
  *
  * @link https://codex.wordpress.org/Creating_an_Error_404_Page
  *
- * @package Désalpe_de_Semsales
+ * @package Comptoir_de_la_Veveyse
  */
 
 get_header();

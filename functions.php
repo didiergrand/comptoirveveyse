@@ -1,10 +1,10 @@
 <?php
 /**
- * Désalpe de Semsales functions and definitions
+ * Comptoir de la Veveyse functions and definitions
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package Désalpe_de_Semsales
+ * @package Comptoir_de_la_Veveyse
  */
 
 if ( ! defined( '_S_VERSION' ) ) {
@@ -23,7 +23,7 @@ function comptoir_veveyse_setup() {
 	/*
 		* Make theme available for translation.
 		* Translations can be filed in the /languages/ directory.
-		* If you're building a theme based on Désalpe de Semsales, use a find and replace
+		* If you're building a theme based on Comptoir de la Veveyse, use a find and replace
 		* to change 'comptoir-veveyse' to the name of your theme in all the template files.
 		*/
 	load_theme_textdomain( 'comptoir-veveyse', get_template_directory() . '/languages' );

@@ -8,7 +8,7 @@
  *
  * @link https://developer.wordpress.org/themes/functionality/custom-headers/
  *
- * @package Désalpe_de_Semsales
+ * @package Comptoir_de_la_Veveyse
  */
 
 /**

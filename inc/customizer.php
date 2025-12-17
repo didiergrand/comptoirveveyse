@@ -1,8 +1,8 @@
 <?php
 /**
- * Désalpe de Semsales Theme Customizer
+ * Comptoir de la Veveyse Theme Customizer
  *
- * @package Désalpe_de_Semsales
+ * @package Comptoir_de_la_Veveyse
  */
 
 /**
