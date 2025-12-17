@@ -51,10 +51,10 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 --------------------------------------------------------------*/
 @import url("https://fonts.googleapis.com/css2?family=Amaranth:wght@400;700&family=Poppins:ital,wght@0,300;1,300&display=swap");
 
-@import url("styles/generic.css");
-@import url("styles/base.css");
-@import url("styles/variables.css");
-@import url("styles/layouts.css");
-@import url("styles/components.css");
-@import url("styles/plugins.css");
-@import url("styles/utilities.css");
+@import url("css/generic.css");
+@import url("css/base.css");
+@import url("css/variables.css");
+@import url("css/layouts.css");
+@import url("css/components.css");
+@import url("css/plugins.css");
+@import url("css/utilities.css");
