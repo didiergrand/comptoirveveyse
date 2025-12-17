@@ -20,7 +20,7 @@ dynamic_sidebar( 'sidebar-footer' );
 	<div class="site-info">
 		<div class="container">
 		<!--<span class="sep"> | </span>-->
-		© Société de développement de Semsales | webdesign & code : Didier Grand - <a href="https://www.digitalgarage.ch?ref=comptoir-veveyse">digitalgarage.ch</a>
+		© Comptoir de la Veveyse | webdesign & code : Didier Grand - <a href="https://www.digitalgarage.ch?ref=comptoir-veveyse">digitalgarage.ch</a>
 		</div>
 	</div><!-- .site-info -->
 	</footer><!-- #colophon -->
