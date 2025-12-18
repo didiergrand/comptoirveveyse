@@ -13,19 +13,22 @@
     justify-content: flex-start;
     flex-direction: column;
     background-color: var(--background-gray);
-    box-shadow: 0 0 10px var(--background-gray);
+    border: 1px solid var(--border-color);
 }
 
 #comite_direction .wp-block-column:empty {
-    background-color: transparent
+    background-color: transparent;
+    border: 0;
 }
 
 #comite_direction .highlight_section .wp-block-column {
-    background-color: var(--white)
+    background-color: var(--white);
+    border: 1px solid var(--border-color);
 }
 
 #comite_direction .highlight_section .wp-block-column:empty {
-    background-color: transparent
+    background-color: transparent;
+    border: 0;
 }
 
 #comite_direction h3 {
