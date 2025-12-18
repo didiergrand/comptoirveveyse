@@ -12,7 +12,8 @@
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
-    background-color: var(--background-gray)
+    background-color: var(--background-gray);
+    box-shadow: 0 0 10px var(--background-gray);
 }
 
 #comite_direction .wp-block-column:empty {
