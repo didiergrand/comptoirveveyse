@@ -61,7 +61,9 @@ h3:before {
     margin: .5rem;
     line-height: normal
 }
-
+#comite_direction :where(.wp-block-columns.is-layout-flex) {
+    gap: 1rem;
+}
 @media screen and (min-width: 480px) and (max-width:781px) {
     #comite_direction .wp-block-columns {
         display:grid;
