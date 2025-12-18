@@ -63,65 +63,7 @@
   background-color: rgba(0, 0, 0, 0.4);
 }
 
-@media screen and (min-width: 37.5em) {
-  .content-w-sidebar {
-    /* display: -ms-grid;
-    display: grid;
-    -ms-grid-columns: 2fr 50px 1fr;
-    grid-template-columns: 2fr 1fr; 
-    grid-gap: 50px;*/
-    max-width: 1400px;
-  }
 
-  #page .entry-header h1,
-  .single .entry-header h1 {
-    height: 400px;
-    width: 520px;
-    position: absolute;
-    left: 0;
-    margin: 0;
-    z-index: 1;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    text-align: left;
-    padding: 40px;
-    color: var(--text-color);
-  }
-
-  #page .entry-header h1::after,
-  .single .entry-header h1::after {
-    content: "";
-    background-color: var(--border-color);
-    width: 700px;
-    height: 100%;
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: -1;
-    display: block;
-    -webkit-clip-path: polygon(0 0, 690px 0, 540px 100%, 0% 100%);
-    clip-path: polygon(0 0, 690px 0, 540px 100%, 0% 100%);
-  }
-
-  #page .entry-header h1::before,
-  .single .entry-header h1::before {
-    content: "";
-    background-color: var(--background-color);
-    width: 700px;
-    height: 100%;
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: -1;
-    display: block;
-    -webkit-clip-path: polygon(0 0, 700px 0, 550px 100%, 0% 100%);
-    clip-path: polygon(0 0, 700px 0, 550px 100%, 0% 100%);
-  }
-}
 
 .site-footer {
   background-color: var(--foreground-color);

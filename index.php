@@ -18,7 +18,7 @@ get_header();
 	<img src="<?php header_image(); ?>" height="<?php echo get_custom_header()->height; ?>" width="<?php echo get_custom_header()->width; ?>" alt="" />
 </div>
 	<main id="primary" class="site-main">
-		<div class="container content-w-sidebar">
+		<div class="container">
 
 			<div id="news">
 				<?php

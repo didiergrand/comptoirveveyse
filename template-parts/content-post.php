@@ -23,7 +23,7 @@
 	endif;
 ?><!-- .entry-header -->
 
-<div class="container content-w-sidebar">
+<div class="container">
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
 

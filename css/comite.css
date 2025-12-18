@@ -1,10 +1,3 @@
-#comite_direction>.container {
-    width: 100%!important;
-    max-width: none!important;
-    padding-left: 0;
-    padding-right: 0
-}
-
 #comite_direction img {
     -o-object-fit: cover;
     object-fit: cover;
