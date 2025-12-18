@@ -57,35 +57,6 @@
   padding: 20px;
 }
 
-#page .entry-header,
-.single .entry-header {
-  height: 400px;
-  width: 100%;
-  margin: 0 auto;
-  background-color: rgba(var(--foreground-color), 0.2);
-  color: var(--background-color);
-  background-size: cover;
-  background-repeat: no-repeat;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  text-align: center;
-  font-weight: 300;
-  text-transform: uppercase;
-  -webkit-transition: background-color 2s ease-in-out;
-  transition: background-color 2s ease-in-out;
-  position: relative;
-}
 
 #page .entry-header:hover,
 .single .entry-header:hover {
