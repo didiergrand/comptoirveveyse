@@ -99,7 +99,7 @@
     -ms-grid-columns: 2fr 50px 1fr;
     grid-template-columns: 2fr 1fr; 
     grid-gap: 50px;*/
-    max-width: 1000px;
+    max-width: 1400px;
   }
 
   #page .entry-header h1,
