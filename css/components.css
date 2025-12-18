@@ -291,6 +291,7 @@
 .entry-content,
 .entry-summary {
   margin: 1.5em 0 0;
+  padding: 0 20px;
 }
 
 .page-links {
