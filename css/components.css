@@ -33,7 +33,7 @@
   background-color: #223347;
   border-radius: 5px;
   line-height: 24px;
-  font-size: 18px;
+  font-size: 16px;
   z-index: 2;
 }
 
@@ -234,7 +234,6 @@
   }
 
   #primary-menu {
-    font-size: 18px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -258,9 +257,6 @@
 }
 
 @media screen and (min-width: 1600px) {
-  #primary-menu {
-    font-size: 24px;
-  }
 
   #primary-menu>li {
     padding: 0 20px;
