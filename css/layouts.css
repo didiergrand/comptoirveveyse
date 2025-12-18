@@ -183,13 +183,13 @@
 }
 
 .site-footer .site-info {
-  background-color: var(--secondary-color);
-  color: var(--foreground-color);
+  background-color: var(--tertiary-color);
+  color: var(--primary-color);
   padding: 5px;
 }
 
 .site-footer .site-info a {
-  color: var(--secondary-color);
+  color: var(--primary-color);
 }
 
 .site-header {
