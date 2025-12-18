@@ -57,10 +57,6 @@
   padding: 20px;
 }
 
-#page {
-  border-top: 20px solid var(--primary-color);
-}
-
 #page .entry-header,
 .single .entry-header {
   height: 400px;
