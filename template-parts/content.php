@@ -21,6 +21,7 @@
 	</header><!-- .entry-header -->
 
 	<?php saint_martin_fr_post_thumbnail(); ?>
+	<div class="container">
 	<div class="entry-content">
 		<?php
 		the_content(
@@ -46,5 +47,5 @@
 		);
 		?>
 	</div><!-- .entry-content -->
-
+</div>
 </article><!-- #post-<?php the_ID(); ?> -->
